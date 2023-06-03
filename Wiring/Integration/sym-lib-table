@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Teensy")(type "Legacy")(uri "C:/Users/danie/Downloads/Spring Intgration/teensy_library-master/teensy_library-master/teensy.lib")(options "")(descr ""))
+)
